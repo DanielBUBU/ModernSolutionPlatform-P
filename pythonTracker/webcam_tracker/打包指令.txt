@@ -1,0 +1,2 @@
+nuitka --standalone --show-memory --show-progress --output-dir="compiled" "main.py"
+nuitka --standalone --show-memory --show-progress --nofollow-import-to=streamlit,mediapipe --output-dir="compiled" "main.py"

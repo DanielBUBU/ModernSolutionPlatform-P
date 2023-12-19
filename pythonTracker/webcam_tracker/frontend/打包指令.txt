@@ -1,0 +1,1 @@
+nuitka --standalone --show-memory --show-progress --output-dir="compiled" "start_frontend.py"

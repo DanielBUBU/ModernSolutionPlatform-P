@@ -1,0 +1,45 @@
+{
+    "SeeDocsAt": "https://github.com/Microsoft/AirSim/blob/main/docs/settings_json.md",
+    "SettingsVersion": 1.2,
+    "SimMode": "Multirotor",
+    "ClockSpeed": 1.0,
+    "Vehicles": {
+      "SimpleFlight": {
+        "VehicleType": "SimpleFlight",
+        "DefaultVehicleState": "Armed",
+        "EnableCollisionPassthrogh": false,
+        "EnableCollisions": true,
+        "AllowAPIAlways": true,
+        "Sensors": {
+          "Imu": {
+            "SensorType": 2,
+            "Enabled": true,
+            "AngularRandomWalk": 0.3,
+            "GyroBiasStabilityTau": 500,
+            "GyroBiasStability": 4.6,
+            "VelocityRandomWalk": 0.24,
+            "AccelBiasStabilityTau": 800,
+            "AccelBiasStability": 36
+          },
+          "Distance": {
+            "SensorType": 5,
+            "Enabled": true,
+            "MinDistance": 0.001,
+            "MaxDistance": 100000000000,
+            "X": 0,
+            "Y": 0,
+            "Z": -1,
+            "Yaw": 0,
+            "Pitch": -90,
+            "Roll": 0,
+            "DrawDebugPoints": true
+          }
+         
+        },
+        "RC": {
+          "RemoteControlID": 0,
+          "AllowAPIWhenDisconnected": true
+        }
+      }
+    }
+  }
