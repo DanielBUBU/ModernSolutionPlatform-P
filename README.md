@@ -4,8 +4,8 @@
 ## RuleBased
 ![RBcalPic](./assets/RBcalPic.png)
 ![RBPPic](./SikretDokuments/BlueArchive/RuleBased%20process.png)
-![RBDemo](./SikretDokuments/PastaPornTerminator/demo_H264.mp4)
 ![RBR](./SikretDokuments/BlueArchive/初階功能示意圖初稿.jpg)
+![RBDemo](./SikretDokuments/PastaPornTerminator/demo_H264.mp4)
 
 ## OpenCVBased
 ![OpCVPPic](./SikretDokuments/BlueArchive/AI-Based.png)
