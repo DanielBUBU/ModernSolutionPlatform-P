@@ -20,5 +20,5 @@ Demo:
 
 ## GoogleMediapipeBased
 Demo:
-[![man](http://img.youtube.com/vi/1vXRypd6lsQ/0.jpg)](https://www.youtube.com/watch?v=1vXRypd6lsQ "專題GMDemo")
+[![man](http://img.youtube.com/vi/DRUtMAXltn4/0.jpg)](https://www.youtube.com/watch?v=DRUtMAXltn4 "專題GMDemo")
 ![P](./assets/P.png)
